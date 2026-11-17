@@ -1,0 +1,7 @@
+model:
+  hidden_dim: 768
+  layers: 12
+  heads: 12
+training:
+  batch_size: 8
+  lr: 0.0003
